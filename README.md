@@ -1,3 +1,3 @@
 # wifi-fingerprinting-ml
 
-model predicts whether the subject requires the thermal condition of their respective working environment to be warmer, cooler, or not changed based on various climatic and temperature measurements (indoor localization)
+predicts the location of a user by analyzing the intensity levels of a number of WAPs often referred to as wifi fingerprinting which is used in indoor and underground sites where GPS lacks precision
